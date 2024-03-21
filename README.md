@@ -1,11 +1,15 @@
 **标题**：一个三七种植面积遥感自动提取工具
 
-**功能**：该工具基于Vis-NIR影像反射率极差指数SNRI和极大值Max提取三七种植区（黑色遮阳网）
+**功能**：该工具基于Vis-NIR影像反射率极差指数SNRI和极大值Max提取三七种植区（黑色遮阳网）；
           在云南山区可以用来估算三七种植面积，还可以用于其他区域的水体提取。
 
 **参考文献**：
 
   （1）[SNRI: A Signed Normalized Range Index for Remote Sensing of Panax Notoginseng Plantations](https://ieeexplore.ieee.org/document/10475315/) 
+
+X. Xie, A. Samat, Y. He and Y. Jiang, "SNRI: A Signed Normalized Range Index for Remote Sensing of Panax Notoginseng Plantations," in IEEE Geoscience and Remote Sensing Letters, doi: 10.1109/LGRS.2024.3379196.
+
+Abstract: Panax Notoginseng is a widely recognized medicinal herb in Chinese traditional medicine. Investigating the cultivation of P. notoginseng is crucial for ecological preservation and effective land management. In our study, we conducted an analysis of the spectral properties of P. notoginseng plantations along with various other land cover types. As a result, we have introduced a novel index called the Signed Normalized Range Index (SNRI), based on the maximum and minimum reflectance values across all bands of the multispectral imagery. Through experiments conducted on Landsat-8 OLI images obtained from Yunnan, China, we performed quantitative assessments of separability measurements. SNRI has shown great potential in enhancing the identification of P. notoginseng, with an average Jeffries-Matusita separability of 1.378 compared to other land covers. Furthermore, we conducted a comparative analysis of the SVM classification results using several spectral indices for dark target extraction. The comparison affirmed the superior performance of SNRI in accurately distinguishing P. notoginseng plantations from other land cover types. It is promising to explore the application of SNRI in remote sensing estimation and change monitoring of the P. notoginseng planting area, as well as other land covers with similar lower reflectance ranges.
   
   （2）[一种基于多光谱卫星遥感影像的三七种植面积计算方法](https://kns.cnki.net/kcms2/article/abstract?v=smPsKIJgVaD0YzfShAMWFLWV9e-2KWKO9irK9JZdWz3Ar-o002jXXwNnDJSzGiK3xH-J9vR9HrQejWA1I0djCOyO-YpTt4fjKRAELRyDj19Lep3bQEOUy5yZm06UXBEydJMNcpLUrTI=&uniplatform=NZKPT&language=CHS)
 
