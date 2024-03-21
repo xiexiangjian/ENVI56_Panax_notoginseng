@@ -1,5 +1,9 @@
 一个三七种植面积遥感提取工具，还可以用于Landsat、Sentinel2等Vis-NIR影像的水体提取。
 
+参考文献：
+  （1）[SNRI: A Signed Normalized Range Index for Remote Sensing of Panax Notoginseng Plantations](https://ieeexplore.ieee.org/document/10475315/) 
+  （2）[一种基于多光谱卫星遥感影像的三七种植面积计算方法](https://kns.cnki.net/kcms2/article/abstract?v=smPsKIJgVaD0YzfShAMWFLWV9e-2KWKO9irK9JZdWz3Ar-o002jXXwNnDJSzGiK3xH-J9vR9HrQejWA1I0djCOyO-YpTt4fjKRAELRyDj19Lep3bQEOUy5yZm06UXBEydJMNcpLUrTI=&uniplatform=NZKPT&language=CHS)
+
 平台：ENVI5.6+
 
 输入数据：
