@@ -2,7 +2,7 @@
   "name": "Panax_notoginseng",
   "base_class": "ENVITaskFromProcedure",
   "routine": "ENVI56_Panax_notoginseng",
-  "display_name": "P. notoginseng Extraction",
+  "display_name": "Panax notoginseng Extraction",
   "description": "This task exports an P. notoginseng raster from Landsat 8 OLI image to an ENVI-format file.",
   "schema":"envitask_3.3",
   "revision":"1.0.0",
@@ -43,7 +43,7 @@
     },
     {
       "name":"Threshold_SNRRI",
-      "display_name":"SNRRI Threshold",
+      "display_name":"SNRI Threshold",
       "type":"float",
       "direction":"INPUT",
       "required":true,
